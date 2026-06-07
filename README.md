@@ -1,4 +1,4 @@
-# Week5 Agent Simulation Homework
+# HARUMAN Agent Simulation
 
 ## 프로젝트 소개
 
